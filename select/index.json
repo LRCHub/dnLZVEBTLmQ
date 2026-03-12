@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "レナセールセレナーデ",
+  "base_artist": "ももいろクローバーZ",
+  "createdAt": "2026-03-12T16:21:37.196525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レナセールセレナーデ",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/01_レナセールセレナーデ_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レナセールセレナーデ - Renacer Serenade",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/02_レナセールセレナーデ_-_Renacer_Serenade_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レナセールセレナーデ",
+      "artist": "ももいろクローバーZ",
+      "has_synced": true,
+      "path": "select/03_レナセールセレナーデ_ももいろクローバーZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レナセールセレナーデ",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/pl_01_レナセールセレナーデ_ももいろクローバーZ.txt"
+    }
+  ]
+}
